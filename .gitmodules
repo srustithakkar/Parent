@@ -1,0 +1,3 @@
+[submodule "childRepo"]
+	path = childRepo
+	url = https://github.com/srustithakkar/Child
